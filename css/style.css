@@ -1,0 +1,32 @@
+body {
+    background-color: #f5f5dd;
+    margin-left: 450px;
+}
+
+.klasa-jeden {
+    background-color:rgb(0, 0, 0, 1.0);
+    width: 400px;
+    height: 400px;
+
+}
+
+.klasa-dwa {
+    background-color:rgb(0, 0, 0, 0.8);
+    width: 400px;
+    height: 400px;
+
+}
+
+.klasa-trzy {
+    background-color:rgb(0, 0, 0, 0.6);
+    width: 400px;
+    height: 400px;
+
+}
+
+.klasa-cztery {
+    background-color:rgb(0, 0, 0, 0.4);
+    width: 400px;
+    height: 400px;
+
+}
